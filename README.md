@@ -148,5 +148,5 @@ Data-Driven Insights
 Transforms large-scale Airbnb listing data into actionable business intelligence through interactive reporting.
 
 Dashboard Preview
-![Dashboard Preview](<img width="1005" height="725" alt="air bnb ss" src="https://github.com/user-attachments/assets/d40c5a8a-64cf-432c-8add-5e49da39eb68" />
-)
+![Dashboard Preview](https://github.com/ViperVashi/AirBnb-Dashboard/blob/main/air%20bnb%20ss.png)
+
